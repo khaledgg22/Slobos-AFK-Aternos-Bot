@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "khaled-qQaS.aternos.me:50757",
+    "ip": "khaled-qQaS.aternos.me",
     "port":50757,
     "version": "",
     "try-creative": false
